@@ -98,8 +98,7 @@ let obsh = 0
     
     }
  }
-  console.log(obsh, 'оценки выше 85')
-
+ console.log(obsh, 'оценки выше 85')
 let mas = []
 for(let element of grades){
     if(element>=90){
